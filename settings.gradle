@@ -1,0 +1,4 @@
+rootProject.name = 'fp_with_arrow'
+include 'fp_with_arrow-core'
+include 'fp_with_arrow_instances'
+
